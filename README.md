@@ -38,6 +38,8 @@ Advance level Python, Machine learning , Deep Learning , HTML, CSS ,Dart, C, Jav
 - Random Forest Algorithms
 - Naive Bayes
 - KNN
+- Decision Tree
+- SVM
 etc
 
 
